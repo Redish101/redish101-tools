@@ -1,0 +1,21 @@
+{
+  "name": "redish101-tools-linux-x64-musl",
+  "version": "0.0.4",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "redish101-tools.linux-x64-musl.node",
+  "files": [
+    "redish101-tools.linux-x64-musl.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "musl"
+  ]
+}

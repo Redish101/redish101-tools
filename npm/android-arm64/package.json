@@ -1,0 +1,18 @@
+{
+  "name": "redish101-tools-android-arm64",
+  "version": "0.0.4",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "redish101-tools.android-arm64.node",
+  "files": [
+    "redish101-tools.android-arm64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

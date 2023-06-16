@@ -1,0 +1,18 @@
+{
+  "name": "redish101-tools-android-arm-eabi",
+  "version": "0.0.4",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "redish101-tools.android-arm-eabi.node",
+  "files": [
+    "redish101-tools.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

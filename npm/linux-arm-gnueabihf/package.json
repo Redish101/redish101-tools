@@ -1,0 +1,18 @@
+{
+  "name": "redish101-tools-linux-arm-gnueabihf",
+  "version": "0.0.4",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "redish101-tools.linux-arm-gnueabihf.node",
+  "files": [
+    "redish101-tools.linux-arm-gnueabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

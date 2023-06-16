@@ -1,0 +1,21 @@
+{
+  "name": "redish101-tools-linux-arm64-musl",
+  "version": "0.0.4",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "redish101-tools.linux-arm64-musl.node",
+  "files": [
+    "redish101-tools.linux-arm64-musl.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "musl"
+  ]
+}
