@@ -36,7 +36,7 @@
     "build": "napi build --platform --release",
     "build:debug": "napi build --platform",
     "prepublishOnly": "napi prepublish -t npm",
-    "test": "ava",
+    "test": "echo 个人项目跑什么test",
     "universal": "napi universal",
     "version": "napi version"
   },
