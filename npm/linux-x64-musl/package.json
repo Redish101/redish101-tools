@@ -1,6 +1,6 @@
 {
   "name": "redish101-tools-linux-x64-musl",
-  "version": "0.0.5",
+  "version": "0.1.6",
   "os": [
     "linux"
   ],
