@@ -1,6 +1,6 @@
 {
   "name": "redish101-tools",
-  "version": "0.1.7",
+  "version": "0.1.6",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
@@ -39,5 +39,8 @@
     "test": "ava",
     "universal": "napi universal",
     "version": "napi version"
+  },
+  "dependencies": {
+    "ava": "^5.3.0"
   }
 }
