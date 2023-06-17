@@ -1,3 +1,3 @@
-# `retools-android-arm64`
+# `@retools/retools-android-arm64`
 
-This is the **aarch64-linux-android** binary for `retools`
+This is the **aarch64-linux-android** binary for `@retools/retools`

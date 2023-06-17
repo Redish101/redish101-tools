@@ -1,5 +1,5 @@
 {
-  "name": "retools",
+  "name": "@retools/retools",
   "version": "0.1.10",
   "main": "index.js",
   "types": "index.d.ts",

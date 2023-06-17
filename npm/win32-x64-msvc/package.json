@@ -1,5 +1,5 @@
 {
-  "name": "retools-win32-x64-msvc",
+  "name": "@retools/retools-win32-x64-msvc",
   "version": "0.1.10",
   "os": [
     "win32"

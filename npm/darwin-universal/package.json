@@ -1,5 +1,5 @@
 {
-  "name": "retools-darwin-universal",
+  "name": "@retools/retools-darwin-universal",
   "version": "0.1.10",
   "os": [
     "darwin"

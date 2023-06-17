@@ -1,3 +1,3 @@
-# `retools-linux-x64-musl`
+# `@retools/retools-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `retools`
+This is the **x86_64-unknown-linux-musl** binary for `@retools/retools`

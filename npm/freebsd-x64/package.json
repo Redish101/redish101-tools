@@ -1,5 +1,5 @@
 {
-  "name": "retools-freebsd-x64",
+  "name": "@retools/retools-freebsd-x64",
   "version": "0.1.10",
   "os": [
     "freebsd"

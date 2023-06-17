@@ -1,3 +1,3 @@
-# `retools-win32-ia32-msvc`
+# `@retools/retools-win32-ia32-msvc`
 
-This is the **i686-pc-windows-msvc** binary for `retools`
+This is the **i686-pc-windows-msvc** binary for `@retools/retools`

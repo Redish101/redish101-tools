@@ -1,3 +1,3 @@
-# `retools-linux-arm64-gnu`
+# `@retools/retools-linux-arm64-gnu`
 
-This is the **aarch64-unknown-linux-gnu** binary for `retools`
+This is the **aarch64-unknown-linux-gnu** binary for `@retools/retools`

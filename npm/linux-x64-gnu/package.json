@@ -1,5 +1,5 @@
 {
-  "name": "retools-linux-x64-gnu",
+  "name": "@retools/retools-linux-x64-gnu",
   "version": "0.1.10",
   "os": [
     "linux"

@@ -1,5 +1,5 @@
 {
-  "name": "retools-linux-arm64-musl",
+  "name": "@retools/retools-linux-arm64-musl",
   "version": "0.1.10",
   "os": [
     "linux"
