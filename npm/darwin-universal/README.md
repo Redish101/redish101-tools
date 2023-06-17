@@ -1,3 +1,3 @@
-# `redish101-tools-darwin-universal`
+# `retools-darwin-universal`
 
-This is the **universal-apple-darwin** binary for `redish101-tools`
+This is the **universal-apple-darwin** binary for `retools`

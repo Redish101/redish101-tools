@@ -1,5 +1,5 @@
 {
-  "name": "redish101-tools-linux-x64-musl",
+  "name": "retools-linux-x64-musl",
   "version": "0.1.9",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "redish101-tools.linux-x64-musl.node",
+  "main": "retools.linux-x64-musl.node",
   "files": [
-    "redish101-tools.linux-x64-musl.node"
+    "retools.linux-x64-musl.node"
   ],
   "license": "MIT",
   "engines": {

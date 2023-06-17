@@ -1,5 +1,5 @@
 {
-  "name": "redish101-tools-win32-arm64-msvc",
+  "name": "retools-win32-arm64-msvc",
   "version": "0.1.9",
   "os": [
     "win32"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "redish101-tools.win32-arm64-msvc.node",
+  "main": "retools.win32-arm64-msvc.node",
   "files": [
-    "redish101-tools.win32-arm64-msvc.node"
+    "retools.win32-arm64-msvc.node"
   ],
   "license": "MIT",
   "engines": {

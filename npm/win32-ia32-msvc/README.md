@@ -1,3 +1,3 @@
-# `redish101-tools-win32-ia32-msvc`
+# `retools-win32-ia32-msvc`
 
-This is the **i686-pc-windows-msvc** binary for `redish101-tools`
+This is the **i686-pc-windows-msvc** binary for `retools`

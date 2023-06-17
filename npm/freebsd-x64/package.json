@@ -1,5 +1,5 @@
 {
-  "name": "redish101-tools-freebsd-x64",
+  "name": "retools-freebsd-x64",
   "version": "0.1.9",
   "os": [
     "freebsd"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "redish101-tools.freebsd-x64.node",
+  "main": "retools.freebsd-x64.node",
   "files": [
-    "redish101-tools.freebsd-x64.node"
+    "retools.freebsd-x64.node"
   ],
   "license": "MIT",
   "engines": {

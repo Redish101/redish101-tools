@@ -1,12 +1,12 @@
 {
-  "name": "redish101-tools-darwin-universal",
+  "name": "retools-darwin-universal",
   "version": "0.1.9",
   "os": [
     "darwin"
   ],
-  "main": "redish101-tools.darwin-universal.node",
+  "main": "retools.darwin-universal.node",
   "files": [
-    "redish101-tools.darwin-universal.node"
+    "retools.darwin-universal.node"
   ],
   "license": "MIT",
   "engines": {

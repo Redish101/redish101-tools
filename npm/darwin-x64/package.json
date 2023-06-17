@@ -1,5 +1,5 @@
 {
-  "name": "redish101-tools-darwin-x64",
+  "name": "retools-darwin-x64",
   "version": "0.1.9",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "redish101-tools.darwin-x64.node",
+  "main": "retools.darwin-x64.node",
   "files": [
-    "redish101-tools.darwin-x64.node"
+    "retools.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {

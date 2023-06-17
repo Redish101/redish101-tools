@@ -1,5 +1,5 @@
 {
-  "name": "redish101-tools-android-arm-eabi",
+  "name": "retools-android-arm-eabi",
   "version": "0.1.9",
   "os": [
     "android"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "redish101-tools.android-arm-eabi.node",
+  "main": "retools.android-arm-eabi.node",
   "files": [
-    "redish101-tools.android-arm-eabi.node"
+    "retools.android-arm-eabi.node"
   ],
   "license": "MIT",
   "engines": {

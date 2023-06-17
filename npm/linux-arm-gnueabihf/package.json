@@ -1,5 +1,5 @@
 {
-  "name": "redish101-tools-linux-arm-gnueabihf",
+  "name": "retools-linux-arm-gnueabihf",
   "version": "0.1.9",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "redish101-tools.linux-arm-gnueabihf.node",
+  "main": "retools.linux-arm-gnueabihf.node",
   "files": [
-    "redish101-tools.linux-arm-gnueabihf.node"
+    "retools.linux-arm-gnueabihf.node"
   ],
   "license": "MIT",
   "engines": {
